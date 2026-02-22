@@ -11,7 +11,7 @@
 .card-title {font-size:16px; font-weight:bold; color:#0B3D91;}
 .card-text {font-size:14px; color:#333;}
 /* Boutons */
-.stButton>button {background-color:#1E81B0; color:white; font-weight:bold; border-radius:8px; padding:10px 25px;}
+.stButton > button {background-color:#1E81B0; color:white; font-weight:bold; border-radius:8px; padding:10px 25px;}
 
 </style>
             
